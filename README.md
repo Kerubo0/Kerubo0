@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Kerubo Momanyi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img src="![Hello World!](https://github.com/Kerubo0/Kerubo0/assets/99471961/6a7c0bd9-a882-4e77-bf30-9c293688d326)" alt="hello world image">
+<img src="https://github.com/Kerubo0/Kerubo0/blob/master/Hello%20World!.jpg" alt="hello world image">
 
 - 🔭 I’m currently working on **Blog website**
 
