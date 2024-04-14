@@ -2,7 +2,7 @@
   <img src="https://github.com/Kerubo0/Kerubo0/blob/master/Hello%20World!.jpg" alt="hello world image">
 </div>
 <h1 align="center">Hi 👋, I'm Kerubo Momanyi</h1>
-<h3 align="center"> 01110000 01100001 01110011 01110011 01101001 01101111 01101110 01100001 01110100 01100101 00100000 01100100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010. Numbers are amazing  </h3>
+<h3 align="center"> Not just a developer. An Art student, learning The Art of Code.  </h3>
 
 <li>I am a budding full stack web developer and an AI ML enthusiast. I aspire to build solutions that will impact society in a meaningful way by leveraging technology. I also love social and competitive coding,  that is,  contributing to open source ( eventually :) ) and participating in hackathons.</li>
 <br/>
