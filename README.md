@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://github.com/Kerubo0/Kerubo0/blob/master/Hello%20World!.jpg" alt="hello world image">
 </div>
-<h1 align="center">Hi 👋, My name's M Kerubo Momanyi</h1>
-<h3 align="center">A passionate web developer from Kenya</h3>
+<h1 align="center">Hi 👋, My name is Kerubo Momanyi</h1>
+<h3 align="center">A passionate web developer </h3>
 
-<li>I am a budding full stack web developer and an AI ML enthusiast. I aspire to build solutions that will impact society in a meaningful way by leveraging technology. I also love social and competitive coding,  that is,  contributing to open source (one day :) ) and participating in hackathons.</li>
+<li>I am a budding full stack web developer and an AI ML enthusiast. I aspire to build solutions that will impact society in a meaningful way by leveraging technology. I also love social and competitive coding,  that is,  contributing to open source ( eventually :) ) and participating in hackathons.</li>
 <br/>
 
 <li>In frontend development, I craft user friendly interfaces that are intuitive and attractive using HTML, CSS and bootstrap framework, Javascript and React.</li>
@@ -13,7 +13,7 @@
 <li>In backend development, I recognize the importance of building robust and reliable server-side logic. I use Node.js ExpressJs , MongoDB and mongoose to develop backends that are scalable, secure and easy to maintain.</li>
 <br/>
 
-<li>Other tools that i use regularly in development include vs Code, git and github currently learning docker and docker-compose and circleCi</li>
+<li>Other tools that I use regularly in development include vs Code, git and github currently learning docker and docker-compose and circleCi</li>
 <br/>
 
 - 📫 How to reach me **myreskerubo@gmail.com**
