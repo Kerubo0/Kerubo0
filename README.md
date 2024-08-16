@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/Kerubo0/Kerubo0/blob/master/Hello%20World!.jpg" alt="hello world image">
 </div>
-<h1 align="center">Hi 👋, I'm Kerubo Momanyi</h1>
-<h3 align="center">  An Art student, learning The Art of Code.  </h3>
+<h1 align="center">Hi 👋, I'm Kerubo M </h1>
+<h3 align="center">  In a world where you can be anything, be different (in a positive way) .  </h3>
 
 <li>I am a budding full stack web developer and an AI ML enthusiast. I aspire to build solutions that will impact society in a meaningful way by leveraging technology. I also love social and competitive coding,  that is,  contributing to open source ( eventually :) ) and participating in hackathons.</li>
 <br/>
