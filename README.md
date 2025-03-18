@@ -7,15 +7,6 @@
 <li>I am a budding full stack web developer and an AI ML enthusiast. I aspire to build solutions that will impact society in a meaningful way by leveraging technology. I also love social and competitive coding,  that is,  contributing to open source ( eventually :) ) and participating in hackathons.</li>
 <br/>
 
-<li>In frontend development, I craft user friendly interfaces that are intuitive and attractive using HTML, CSS and bootstrap framework, Javascript and React.</li>
-<br/>
-
-<li>In backend development, I recognize the importance of building robust and reliable server-side logic. I use Node.js ExpressJs , MongoDB and mongoose to develop backends that are scalable, secure and easy to maintain.</li>
-<br/>
-
-<li>Other tools that I use regularly in development include vs Code, git and github currently learning docker and docker-compose and circleCi</li>
-<br/>
-
 - 📫 How to reach me **myreskerubo@gmail.com**
 
 
