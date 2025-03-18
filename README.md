@@ -2,7 +2,7 @@
   <img src="https://github.com/Kerubo0/Kerubo0/blob/master/Hello%20World!.jpg" alt="hello world image">
 </div>
 <h1 align="center">Hi 👋, I'm Kerubo M </h1>
-<h3 align="center"> Dare to be different || Imagine ||  Explore || Create .  </h3>
+<h3 align="center">Imagine ||  Explore || Create .  </h3>
 
 <li>I am a budding full stack web developer and an AI ML enthusiast. I aspire to build solutions that will impact society in a meaningful way by leveraging technology. I also love social and competitive coding,  that is,  contributing to open source ( eventually :) ) and participating in hackathons.</li>
 <br/>
